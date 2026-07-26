@@ -12,20 +12,21 @@ I use this repository to:
 
 ## Repository Structure
 
-- 01-Basics
-- 02-Control-Statements
-- 03-Methods
-- 04-Arrays
-- 05-Strings
-- 06-Recursion
-- 07-Bit Manipulation
-- 08-Sorting
-- 09-Object-Oriented Programming (OOP)
-- 10-Collections
-- 11-Exception Handling
-- 12-File Handling
-- 13-Multithreading
-- 14-JDBC
+01-Basics
+02-Control-Statements
+03-Methods
+04-Arrays
+05-Strings
+06-StringBuilder
+07-Recursion
+08-Bit Manipulation
+09-Sorting
+10-Object-Oriented Programming (OOP)
+11-Collections
+12-Exception Handling
+13-File Handling
+14-Multithreading
+15-JDBC
 - Mini Projects
 
 ## Tools Used
