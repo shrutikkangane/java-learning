@@ -1,39 +1,49 @@
-# Java Learning Journey 🚀
+# DSA with Java
 
-This repository documents my personal Java learning journey.
+My learning journey through **Data Structures and Algorithms using Java**.
 
-I use this repository to:
+This repository contains the Java concepts, DSA implementations, practice
+problems, and coding solutions that I learn throughout my DSA preparation.
 
-- Track my learning progress
-- Practice Java concepts
-- Improve my coding skills
-- Learn Git and GitHub workflow
-- Maintain consistency by uploading my practice programs
-
-## Repository Structure
-
-- 01-Basics
-- 02-Control-Statements
-- 03-Methods
-- 04-Arrays
-- 05-Strings
-- 06-StringBuilder
-- 07-Recursion
-- 08-Bit Manipulation
-- 09-Sorting
-- 10-Object-Oriented Programming (OOP)
-- 11-Collections
-- 12-Exception Handling
-- 13-File Handling
-- 14-Multithreading
-- 15-JDBC
-- 16-Mini Projects
-
-## Tools Used
-
-- Java
-- VS Code
-- Git
-- GitHub
+The main goal of this repository is to build strong problem-solving skills
+and prepare for coding interviews and placements.
 
 ---
+
+## 🎯 Goals
+
+- Learn and strengthen Java fundamentals required for DSA
+- Understand Data Structures and Algorithms
+- Improve problem-solving and logical thinking
+- Analyze Time and Space Complexity
+- Practice coding problems regularly
+- Prepare for technical interviews and placements
+
+---
+
+## 📚 Learning Path
+
+```text
+-01-Java-Basics
+-02-Control-Statements
+-03-Patterns
+-04-Methods
+-05-Time-Space-Complexity
+-06-Arrays
+-07-2D-Arrays
+-08-Strings
+-09-StringBuilder
+-10-Bit-Manipulation
+-11-Recursion
+-12-Backtracking
+-13-Sorting
+-14-OOP
+-15-Collections
+-16-Linked-List
+-17-Stack
+-18-Queue
+-19-Binary-Trees
+-20-Binary-Search-Trees
+-21-Hashing
+-22-Trie
+-23-Graphs
